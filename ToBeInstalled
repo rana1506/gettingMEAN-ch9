@@ -1,0 +1,1 @@
+npm i body-parser cookie-parser debug http-errors mongoose morgan pug request serve-favicon
